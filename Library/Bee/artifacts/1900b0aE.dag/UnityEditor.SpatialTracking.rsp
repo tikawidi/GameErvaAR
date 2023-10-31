@@ -115,6 +115,7 @@
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
 -define:ENABLE_LEGACY_INPUT_MANAGER
+-define:XR_MANAGEMENT
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
@@ -330,6 +331,9 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Transactions.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
+-r:"D:/GameErvaAR/Library/PackageCache/com.ptc.vuforia.engine@6952f4478255/Vuforia/Plugins/Managed/Editor/Vuforia.Unity.Editor.dll"
+-r:"D:/GameErvaAR/Library/PackageCache/com.ptc.vuforia.engine@6952f4478255/Vuforia/Plugins/Managed/Runtime/Vuforia.Unity.Engine.dll"
+-r:"D:/GameErvaAR/Library/PackageCache/com.ptc.vuforia.engine@6952f4478255/Vuforia/Plugins/Managed/Runtime/Vuforia.Unity.Wrapper.dll"
 -r:"D:/GameErvaAR/Library/PackageCache/com.unity.analytics@3.6.12/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll"
 -r:"D:/GameErvaAR/Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Editor.dll"
 -r:"D:/GameErvaAR/Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Tracker.dll"
